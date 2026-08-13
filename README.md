@@ -70,3 +70,6 @@ https://www.figma.com/design/At2QNAfoOCUsyGILiCTwSi/%EC%BD%94%EB%94%94%EC%84%B8%
 1. 보너스 1 – 코드 변환 체험
   a. 완성된 디자인 시안 이미지를 V0, ChatGPT 등을 활용해 HTML/CSS 코드로 변환해본다.
  - STAR_MALL_HTML_CSS_보너스과제 수행하여 파일 첨부
+
+ <img width="1916" height="1136" alt="image" src="https://github.com/user-attachments/assets/d759ad37-7739-450d-8021-c79fe99428b4" />
+
