@@ -64,3 +64,9 @@ https://share.gemini.google/PNOgWzmLbAH7
 피그마 최종본 링크입니다.
  - 피그마 구현 영상 또한 깃허브에 업로드 했습니다.
 https://www.figma.com/design/At2QNAfoOCUsyGILiCTwSi/%EC%BD%94%EB%94%94%EC%84%B8%EC%9D%B4-%ED%8C%80%EB%AF%B8%EC%85%98-B2-1?node-id=52-4&t=GN8dUuFUknBZKS5b-1
+
+
+## 보너스 과제
+1. 보너스 1 – 코드 변환 체험
+  a. 완성된 디자인 시안 이미지를 V0, ChatGPT 등을 활용해 HTML/CSS 코드로 변환해본다.
+ - STAR_MALL_HTML_CSS_보너스과제 수행하여 파일 첨부
